@@ -272,9 +272,9 @@ body {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        width: 573px;
+        /* width: 573px; */
         margin-bottom: 5rem;
-        margin-left: -5rem;
+        /* margin-left: -5rem; */
     }
     .card__info {
         margin-top: -7rem;
