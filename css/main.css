@@ -238,14 +238,8 @@ img {
 /* choose section */
 
 .choose {
-    /* position: relative; */
-    /* background-color: rgba(44, 52, 62, 1); */
     background-image: url(../images/png/choose_bg.png);
     background-repeat: no-repeat;
-    /* border-radius: 3rem; */
-    /* height: 600px; */
-    /* padding-top: 120px;
-    padding-bottom: 150px; */
     padding: 120px 120px 150px 120px;
 }
 
@@ -281,9 +275,6 @@ img {
 .choose__wrapper {
     margin-right: auto;
     margin-left: auto;
-    /* width: 1120px; */
-    /* max-width: 1120px; */
-    /* position: absolute; */
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 30px;
@@ -292,11 +283,6 @@ img {
 
 .choose__cards {
     background-color: var(--btn-bg);
-    /* background-image: url(../images/png/choose_card_bg.png); */
-    /* background-size: cover; */
-    /* background-repeat: no-repeat; */
-    /* width: 350px; */
-    /* height: 382px;    */
     display: flex;
     flex-direction: column;
     border-radius: 10px;
